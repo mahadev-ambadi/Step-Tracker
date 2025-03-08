@@ -26,8 +26,8 @@ This project is built using the following technologies:
 ![Low Activity](Screenshot%202025-03-08%20232135.png)
 ## Graph for High and Low Activity Days
 ![High and Low Activity Graph](Screenshot%202025-03-08%20224814.png)
-## Recommendations
-![Recommendations](Screenshot%202025-03-08%20232343.png)
+## Recommendations and Weekly Step Predictions
+![Weekly Step Prediction Table](Screenshot%202025-03-08%20232343.png)
 
 
 
