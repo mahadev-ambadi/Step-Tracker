@@ -16,3 +16,11 @@ This project is built using the following technologies:
 - **Flask** - (if applicable) For backend API and cloud deployment
 - **Git & GitHub** - For version control and collaboration
 
+
+# Step Tracking System
+
+## Main Interface
+![Interactive Step Tracker](Screenshot%202025-03-08%20224214.png)
+
+
+
