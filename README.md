@@ -21,8 +21,11 @@ This project is built using the following technologies:
 
 ## Main Interface
 ![Interactive Step Tracker](Screenshot%202025-03-08%20224214.png)
-## High and Low Activity
+## High and Low Activity Days
 ![High and Low Activity Days](Screenshot%202025-03-08%20224940.png)
+## Graph for High and Low Activity Days
+![High and Low Activity Graph](Screenshot%202025-03-08%20224814.png)
+
 
 
 
