@@ -28,6 +28,9 @@ This project is built using the following technologies:
 ![High and Low Activity Graph](Screenshot%202025-03-08%20224814.png)
 ## Recommendations and Weekly Step Predictions
 ![Weekly Step Prediction Table](Screenshot%202025-03-08%20232343.png)
+## Graph for Step Count Predictions
+![Step Count Graph](Screenshot%202025-03-08%20224923.png)
+
 
 
 
