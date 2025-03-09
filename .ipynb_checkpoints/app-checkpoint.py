@@ -8,9 +8,9 @@ from datetime import datetime, timedelta
 # Load Data Function
 def load_data(file):
     df = pd.read_csv(file)
-    df.columns = df.columns.str.strip().str.lower()  # Normalize column names
+    df.columns = df.columns.str.strip().str.lower()  
     df.rename(columns={'date': 'Date', 'steps': 'Steps'}, inplace=True)
-    df['Date'] = pd.to_datetime(df['Date'])  # Ensure Date is in datetime format
+    df['Date'] = pd.to_datetime(df['Date'])  
     df = df.sort_values(by='Date')
     return df
 
